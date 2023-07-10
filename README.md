@@ -12,3 +12,8 @@
 2. ส่งงานผ่านการ pull request ใน repo นี้ โดยมีสิ่งที่ต้องส่งคือ  
 2.1 คำอธิบายการปฏิบัติงาน และ/หรือ ลิงก์ไปยังคลิปอธิบายการปฏิบัติ  
 2.2 link ไปยัง repo ของโปรเจคในข้อ 3 และ 6
+
+
+## ตัวอย่างไฟล์ idf_component.yml
+
+https://github.com/Special-Topics-Computer-2023/Week-02-Homework/blob/main/example-file-idf_component_yml.md
